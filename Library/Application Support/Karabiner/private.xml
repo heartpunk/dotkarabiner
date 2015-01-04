@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<root>
+  <item>
+    <name>Replace home with command</name>
+    <identifier>private.replace_home_with_command</identifier>
+    <autogen>__KeyToKey__ KeyCode::HOME, KeyCode::COMMAND_L</autogen>
+  </item>
+  <item>
+    <name>Replace end with escape</name>
+    <identifier>private.replace end with escape</identifier>
+    <autogen>__KeyToKey__ KeyCode::END, KeyCode::ESCAPE</autogen>
+  </item>
+</root>
